@@ -8,8 +8,8 @@ import { API_URL, dataProvider } from "./data";
  * For demo purposes and to make it easier to test the app
  */
 export const authCredentials = {
-  email: "michael.scott@dundermifflin.com",
-  password: "demodemo",
+  email: "ks2001@gmail.com",
+  password: "demo123",
 };
 
 export const authProvider: AuthProvider = {
